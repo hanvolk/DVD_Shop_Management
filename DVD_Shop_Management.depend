@@ -1,0 +1,152 @@
+# depslib dependency file v1.0
+1500261106 source:c:\users\minjae\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\cusinfoaccess.c
+	"common.h"
+	"cusInfo.h"
+
+1498615848 c:\users\minjae\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1500085675 c:\users\minjae\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\cusinfo.h
+
+1500261624 source:c:\users\minjae\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\cusmanager.c
+	"common.h"
+	"cusInfo.h"
+	"rentInfo.h"
+	"cusInfoAccess.h"
+	"screenOut.h"
+
+1499943968 c:\users\minjae\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\cusinfoaccess.h
+
+1500033131 c:\users\minjae\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\screenout.h
+	"cusInfo.h"
+	"dvdInfo.h"
+
+1498615852 source:c:\users\minjae\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\common.c
+	"common.h"
+
+1500261106 source:c:\users\minjae\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\main.c
+	"common.h"
+	"cusManager.h"
+	"screenOut.h"
+	"dvdManager.h"
+	"cusInfoAccess.h"
+	"dvdInfoAccess.h"
+	"rentInfo.h"
+
+1500261106 c:\users\minjae\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\cusmanager.h
+
+1500255537 source:c:\users\minjae\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\screenout.c
+	"common.h"
+	"cusInfo.h"
+	"dvdInfo.h"
+	"rentInfo.h"
+
+1498615852 source:c:\users\이민재\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\common.c
+	"common.h"
+
+1498615848 c:\users\이민재\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1500202621 source:c:\users\이민재\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\main.c
+	"common.h"
+	"cusManager.h"
+	"screenOut.h"
+	"dvdManager.h"
+	"cusInfoAccess.h"
+	"dvdInfoAccess.h"
+	"rentInfo.h"
+
+1499940435 c:\users\이민재\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\cusmanager.h
+
+1500033131 c:\users\이민재\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\screenout.h
+	"cusInfo.h"
+	"dvdInfo.h"
+
+1500085675 c:\users\이민재\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\cusinfo.h
+
+1500203262 source:c:\users\이민재\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\screenout.c
+	"common.h"
+	"cusInfo.h"
+	"dvdInfo.h"
+	"rentInfo.h"
+
+1500217333 source:c:\users\이민재\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\cusinfoaccess.c
+	"common.h"
+	"cusInfo.h"
+
+1500085623 source:c:\users\이민재\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\cusmanager.c
+	"common.h"
+	"cusInfo.h"
+	"cusInfoAccess.h"
+	"screenOut.h"
+
+1499943968 c:\users\이민재\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\cusinfoaccess.h
+
+1500217374 source:c:\users\minjae\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\dvdmanager.c
+	"common.h"
+	"dvdInfo.h"
+	"dvdInfoAccess.h"
+	"screenOut.h"
+	"rentInfo.h"
+
+1500099628 c:\users\minjae\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\dvdinfo.h
+	"cusInfo.h"
+
+1500015639 c:\users\minjae\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\dvdinfoaccess.h
+
+1500217311 c:\users\minjae\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\dvdmanager.h
+
+1500191830 source:c:\users\minjae\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\dvdinfoaccess.c
+	"common.h"
+	"screenOut.h"
+	"cusInfo.h"
+	"dvdInfo.h"
+	"dvdInfoAccess.h"
+
+1500099628 c:\users\이민재\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\dvdinfo.h
+	"cusInfo.h"
+
+1500191830 source:c:\users\이민재\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\dvdinfoaccess.c
+	"common.h"
+	"screenOut.h"
+	"cusInfo.h"
+	"dvdInfo.h"
+	"dvdInfoAccess.h"
+
+1500015639 c:\users\이민재\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\dvdinfoaccess.h
+
+1500217374 source:c:\users\이민재\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\dvdmanager.c
+	"common.h"
+	"dvdInfo.h"
+	"dvdInfoAccess.h"
+	"screenOut.h"
+	"rentInfo.h"
+
+1500033132 c:\users\이민재\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\dvdmanager.h
+
+1500203985 source:c:\users\이민재\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\rentinfoaccess.c
+	"common.h"
+	"rentInfo.h"
+	"cusInfo.h"
+	"cusInfoAccess.h"
+	"screenOut.h"
+
+1500202692 c:\users\이민재\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\rentinfo.h
+	"cusInfo.h"
+	"dvdInfo.h"
+
+1500261106 c:\users\minjae\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\rentinfo.h
+	"cusInfo.h"
+	"dvdInfo.h"
+
+1500262152 source:c:\users\minjae\onedrive\문서\교안작성\programming\c\c프로그래밍 파워 업그레이드\dvd_shop_management\rentinfoaccess.c
+	"common.h"
+	"rentInfo.h"
+	"cusInfo.h"
+	"cusInfoAccess.h"
+	"screenOut.h"
+
